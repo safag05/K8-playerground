@@ -1,1 +1,2 @@
-# K8-playerground
+# kubernetes7
+K8 training repo
